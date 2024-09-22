@@ -15,3 +15,18 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/RoleBasedAPITester.git
 cd RoleBasedAPITester
+
+
+
+## Install the required packages:
+
+```bash
+pip install .
+
+## Usage
+Run the library using:
+
+```bash
+role_based_api_tester
+
+## Follow the prompts to enter roles, tokens, and API endpoints to test.
