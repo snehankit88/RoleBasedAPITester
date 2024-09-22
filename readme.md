@@ -2,14 +2,6 @@
 
 **Role Based API Tester** is a Python library designed for cybersecurity professionals to dynamically test API access controls using roles and JWT tokens. It helps you ensure robust role-based access control (RBAC) in APIs and detects potential privilege escalation issues.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Features](#features)
-5. [Contributing](#contributing)
-6. [License](#license)
-
 ## Introduction
 
 Role Based API Tester enables you to validate the security of API endpoints by testing the access levels granted to various user roles using JWT tokens. This helps identify misconfigurations that could allow unauthorized users to gain higher privileges, a critical aspect of API security in preventing attacks such as privilege escalation.
