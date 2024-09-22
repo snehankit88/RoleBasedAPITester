@@ -11,7 +11,7 @@ def create_role_tokens(num_roles):
         role = input(f"Enter name for role {i + 1}: ").strip().lower()
         token = input(f"Enter JWT token for {role}: ").strip()
         
-        # Optionally: Add token validation logic here
+        
         tokens[role] = token
     return tokens
 
